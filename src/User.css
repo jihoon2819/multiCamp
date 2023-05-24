@@ -1,0 +1,11 @@
+.user_name{
+    background-color:rgb(195, 214, 255);
+    width: 50vw;
+    height: 20vh;
+}
+
+container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

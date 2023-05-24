@@ -1,0 +1,42 @@
+.review{
+    display: flex;
+    justify-content: left;
+    align-items: baseline;
+    margin: 10%;
+    flex-direction: column;
+
+}
+
+img{
+    width: 20%;
+}
+
+.review_title{
+    width: 100%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.review_box{
+    margin-top: 1%;
+    display: flex;
+    border: 1px solid rgb(54, 137, 226);
+}
+
+.review_margin{
+    margin:2%;
+    display: flex;
+}
+
+.name{
+    font-weight: 800;
+}
+
+.date{
+    font-size: 12px;
+}
+
+.review_ment{
+    margin-top: 20%;
+}
